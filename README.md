@@ -7,10 +7,10 @@ I was also able to study and learn about quantum computing in the context of an 
 Alot of my projects are on a private school Gitlab, but you can still find of them here.
 
 # My relevant works :
-[Moonstone Engine](!https://github.com/YaelGras/BugsBall/tree/main) Where I wrote the whole engine and rendering implementation for a 3D marble-like game (DirectX11, C++ 20)
-[Marble Engine](!https://github.com/Akahara/MarbleEngine) I mainly worked on Post-Effects, Terrain Generation, Billboards, Ligthting, Deferred Rendering (OpenGL, C++ 20)
-[glascii](!https://github.com/JoshuaVHB/glascii) Where I built a raster pipeline using the windows terminal as a display. I promise gthat one day, I will update this repo with the new code ! (Windows API, C++ 20)
-[LuxAI](!https://github.com/YaelGras/LuxAI) Abstracted the world, and implemented Commandant-Squad-Unit behaviours. This was a school competition, and we won :) ! (C++20)
+[Moonstone Engine](https://github.com/YaelGras/BugsBall/tree/main) Where I wrote the whole engine and rendering implementation for a 3D marble-like game (DirectX11, C++ 20)
+[Marble Engine](https://github.com/Akahara/MarbleEngine) I mainly worked on Post-Effects, Terrain Generation, Billboards, Ligthting, Deferred Rendering (OpenGL, C++ 20)
+[glascii](https://github.com/JoshuaVHB/glascii) Where I built a raster pipeline using the windows terminal as a display. I promise gthat one day, I will update this repo with the new code ! (Windows API, C++ 20)
+[LuxAI](https://github.com/YaelGras/LuxAI) Abstracted the world, and implemented Commandant-Squad-Unit behaviours. This was a school competition, and we won :) ! (C++20)
 
 # My strengths
 - Strong experience and great understanding of modern C++ and low level programming (Metaprogramming, multithreading, cache, alignement, standard library...)
