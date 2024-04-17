@@ -9,6 +9,8 @@ Alot of my projects are on a private school Gitlab, but you can still find of th
 # My relevant works :
 - [Moonstone Engine](https://github.com/YaelGras/BugsBall/tree/main) Where I wrote the whole engine and rendering implementation for a 3D marble-like game (DirectX11, C++ 20)
 
+- [Bugs Balls](https://github.com/YaelGras/BugsBall/tree/main) A marble-like racing game that uses the engines mentionned above.
+
 - [Marble Engine](https://github.com/Akahara/MarbleEngine) I mainly worked on Post-Effects, Terrain Generation, Billboards, Ligthting, Deferred Rendering (OpenGL, C++ 20)
 
 - [glascii](https://github.com/JoshuaVHB/glascii) Where I built a raster pipeline using the windows terminal as a display. I promise gthat one day, I will update this repo with the new code ! (Windows API, C++ 20)
