@@ -11,7 +11,7 @@ Alot of my projects are on a private school Gitlab, but you can still find some 
 
 - [Moonstone Engine](https://github.com/YaelGras/BugsBall/tree/main) Where I wrote the whole engine and rendering implementation for a 3D marble-like game (DirectX11, C++ 20)
 
-- [Bugs Balls](https://github.com/YaelGras/BugsBall/tree/main) A marble-like racing game that uses the engines mentionned above.
+- [Bugs Balls](https://github.com/YaelGras/BugsBall/tree/main) A marble-like racing game that uses the engine mentionned above.
 
 - [Marble Engine](https://github.com/Akahara/MarbleEngine) I mainly worked on Post-Effects, Terrain Generation, Billboards, Ligthting, Deferred Rendering (OpenGL, C++ 20)
 
