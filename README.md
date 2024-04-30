@@ -4,7 +4,7 @@ I am looking a position as a Real-time graphics programmer or an Engine programm
 In the context of my studies, we are currently developing a multiplayer game on Unreal Engine 5. 
 I was also able to study and learn about quantum computing in the context of an internship, where I mainly solved simple Karp's problems using IBM's Qiskit Library.
 
-Alot of my projects are on a private school Gitlab, but you can still find of them here.
+Alot of my projects are on a private school Gitlab, but you can still find some of them here.
 
 # My relevant works :
 - [Moonstone Engine](https://github.com/YaelGras/BugsBall/tree/main) Where I wrote the whole engine and rendering implementation for a 3D marble-like game (DirectX11, C++ 20)
